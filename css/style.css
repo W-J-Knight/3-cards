@@ -1,3 +1,24 @@
-body{
+*{
+    margin: 0;
+    padding: 0;
     font-family: 'Open Sans', sans-serif;
+}
+#facilities{
+    background-color: #dbe5e6;
+    padding: 2rem 0rem;
+}
+#facilities h1{
+    font-weight: 900;
+    font-size: 1.8rem;
+    padding-bottom: .3rem;
+}
+.title {
+    text-align: center;
+    padding: .8rem 0rem;
+}
+.title p{
+    font-size: 1.2rem;
+}
+.card-body {
+    box-shadow:  0 0 1.3rem .6rem rgba(0,0,0,0.1, green, blue, alpha);
 }
